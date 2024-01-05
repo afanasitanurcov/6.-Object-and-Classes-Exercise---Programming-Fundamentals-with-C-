@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVTyJDT1q0tcq1+ec3Ij5iut6rs519f8XC8+WqrHZZQDp2yUy7un7Cfwa1RqmAPk3bkt1l3vXqdAfgqoqMVPvA==",
+  "success": true,
+  "projectFilePath": "C:\\progr\\C#.Fundamental\\6.ExerciseObjectsAndClasses\\05.TeamworkProjects\\05.TeamworkProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

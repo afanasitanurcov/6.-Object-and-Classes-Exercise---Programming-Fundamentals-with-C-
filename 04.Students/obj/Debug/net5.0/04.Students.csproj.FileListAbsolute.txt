@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.exe
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.deps.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.runtimeconfig.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.runtimeconfig.dev.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\bin\Debug\net5.0\04.Students.pdb
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.AssemblyInfo.cs
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\refint\04.Students.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.pdb
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\04.Students.genruntimeconfig.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\04.Students\obj\Debug\net5.0\ref\04.Students.dll

@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.exe
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.deps.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.runtimeconfig.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.runtimeconfig.dev.json
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\bin\Debug\net5.0\03.Articles2.0.pdb
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.AssemblyInfo.cs
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\refint\03.Articles2.0.dll
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.pdb
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\03.Articles2.0.genruntimeconfig.cache
+C:\progr\fundamentalмай\6.ExerciseObjectsAndClasses\03.Articles2.0\obj\Debug\net5.0\ref\03.Articles2.0.dll
